@@ -20,7 +20,7 @@ const DirectorCard = ({ director, selectDirector, showOptions=true }) => {
                 <Card.Body className="d-flex flex-column">
                     <Card.Title>{firstName} {lastName}</Card.Title>
                     <div className="flex-fill">
-                        <div><b>birthday: </b>{birthday}</div>
+                        <div><b>Birthday: </b>{birthday}</div>
                         <div><b>Nationality: </b>{nationality}</div>
                     </div>
                     {showOptions && (
