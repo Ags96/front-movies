@@ -111,9 +111,3 @@
 
 .filter-option{ cursor: pointer; }
 .filter-option:hover{ text-decoration: underline; }
-
-.educational-purposes{
-    width: 100%;
-    padding: 10px;
-    text-align: center;
-}
